@@ -1,3 +1,7 @@
+# Author: Isa Wilson
+# Date: 10/1/25
+# Assignment: Discussion 6
+
 import os
 import unittest
 
